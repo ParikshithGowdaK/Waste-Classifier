@@ -1,0 +1,10 @@
+# Virtual environment
+waste-env/
+
+# Model files
+*.h5
+*.pkl
+
+# Cache and temporary files
+__pycache__/
+*.pyc
